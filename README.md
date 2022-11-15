@@ -4,7 +4,7 @@ Programador en proceso
 
 <div id="Insignias" align="center">
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-Jyn%238785-6F6CFF?logo_color=white&logo=Discord&style=for-the-badge" alt="Discord Insignia"/>
+    <img src="https://img.shields.io/badge/Discord-Dierr2%233537-6F6CFF?logo_color=white&logo=Discord&style=for-the-badge" alt="Discord Insignia"/>
   </a>
 </div>
 
