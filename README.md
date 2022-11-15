@@ -8,6 +8,12 @@ Programador en proceso
   </a>
 </div>
 
+<div id="Servidor" align="center">
+  <a href="https://discord.gg/MSuQvbZ336">
+    <img src="https://img.shields.io/discord/1023930368757354536?label=Wasap%20Server%20Oficial&logo=Discord&style=social" alt="Discord Servidor"/>
+  </a>
+</div>
+
 <div id="Area" align="center">
   <a href="https://discord.js.org/#/">
     <img src="https://img.shields.io/badge/Discord.js-6F6CFF?logo=Discord&logoColor=white&style=flat" alt="discord.js"/>
