@@ -28,6 +28,9 @@ Programador en proceso
   <a href="https://es.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
+  <a href="https://es.m.wikipedia.org/wiki/C_Sharp">
+    <img src="https://img.shields.io/badge/-C Sharp-blueviolet?logo=Csharp&logoColor=white&style=flat" alt="javascript"/>
+  </a>
 </div>
 
 <div id="Mensaje" align="center">
