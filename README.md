@@ -29,7 +29,10 @@ Programador en proceso
     <img src="https://img.shields.io/badge/JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
   <a href="https://es.m.wikipedia.org/wiki/C_Sharp">
-    <img src="https://img.shields.io/badge/-C Sharp-blueviolet?logo=Csharp&logoColor=white&style=flat" alt="javascript"/>
+    <img src="https://img.shields.io/badge/-C Sharp-blueviolet?logo=Csharp&logoColor=white&style=flat" alt="csharp"/>
+  </a>
+  <a href="https://es.m.wikipedia.org/wiki/Python">
+    <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat" alt="python"/>
   </a>
 </div>
 
