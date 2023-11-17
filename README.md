@@ -10,7 +10,7 @@ Programador en proceso
 
 <div id="Servidor" align="center">
   <a href="https://discord.gg/MSuQvbZ336">
-    <img src="https://img.shields.io/discord/1023930368757354536?label=Wasap%20Server%20Oficial&logo=Discord&style=social" alt="Discord Servidor"/>
+    <img src="https://img.shields.io/discord/1023930368757354536?label=Breading%20Bread&logo=Discord&style=social" alt="Discord Servidor"/>
   </a>
 </div>
 
@@ -37,5 +37,5 @@ Programador en proceso
 </div>
 
 <div id="Mensaje" align="center">
-  <i>Un aficionado a la programacion </></i> 
+  <i>Un aficionado a la programacion</i> 
 </div>
