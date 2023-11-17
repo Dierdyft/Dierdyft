@@ -37,5 +37,5 @@ Programador en proceso
 </div>
 
 <div id="Mensaje" align="center">
-  <i>Me gusta programar como un hobbie, y lo disfruto mientras lo hago</i> 
+  <i>Un aficionado a la programacion </></i> 
 </div>
