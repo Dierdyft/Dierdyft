@@ -9,8 +9,8 @@ Programador en proceso
 </div>
 
 <div id="Servidor" align="center">
-  <a href="https://discord.gg/MSuQvbZ336">
-    <img src="https://img.shields.io/discord/1023930368757354536?label=Breading%20Bread&logo=Discord&style=social" alt="Discord Servidor"/>
+  <a href="https://discord.com/invite/KHZ8CFBjMD">
+    <img src="https://img.shields.io/discord/1023930368757354536?label=Baking%20Bread&logo=Discord&style=social" alt="Discord Servidor"/>
   </a>
 </div>
 
